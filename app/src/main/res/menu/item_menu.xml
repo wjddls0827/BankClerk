@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:title="홈"
+        android:icon="@drawable/ic_home_home"/>
+    <item android:id="@+id/nav_counsel"
+        android:title="상담"
+        android:icon="@drawable/ic_home_counsel"/>
+    <item android:id="@+id/nav_record"
+        android:title="녹취"
+        android:icon="@drawable/ic_home_record"/>
+    <item android:id="@+id/nav_mypage"
+        android:title="마이"
+        android:icon="@drawable/ic_home_mypage"/>
+
+</menu>
