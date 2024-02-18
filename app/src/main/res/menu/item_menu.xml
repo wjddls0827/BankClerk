@@ -3,7 +3,7 @@
 
     <item android:id="@+id/nav_home"
         android:title="홈"
-        android:icon="@drawable/ic_home_home"/>
+        android:icon="@drawable/ic_home_home" />
     <item android:id="@+id/nav_counsel"
         android:title="상담"
         android:icon="@drawable/ic_home_counsel"/>
