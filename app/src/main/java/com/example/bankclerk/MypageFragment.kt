@@ -1,4 +1,6 @@
 package com.example.bankclerk
 
-class MypageFragment {
+import androidx.fragment.app.Fragment
+
+class MypageFragment : Fragment() {
 }

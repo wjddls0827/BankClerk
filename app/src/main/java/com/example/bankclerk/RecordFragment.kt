@@ -1,4 +1,6 @@
 package com.example.bankclerk
 
-class RecordFragment {
+import androidx.fragment.app.Fragment
+
+class RecordFragment : Fragment() {
 }
