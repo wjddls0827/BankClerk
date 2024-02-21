@@ -5,14 +5,20 @@
         <entry key="..\:/BankClerk/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2315" />
         <entry key="..\:/BankClerk/app/src/main/res/drawable/ic_home_counsel.xml" value="0.209" />
         <entry key="..\:/BankClerk/app/src/main/res/drawable/ic_home_home.xml" value="0.209" />
+        <entry key="..\:/BankClerk/app/src/main/res/drawable/ic_home_mypage.xml" value="0.2525" />
+        <entry key="..\:/BankClerk/app/src/main/res/drawable/ic_home_record.xml" value="0.1985" />
+        <entry key="..\:/BankClerk/app/src/main/res/drawable/ic_speaker.xml" value="0.201" />
+        <entry key="..\:/BankClerk/app/src/main/res/drawable/ic_union.xml" value="0.201" />
         <entry key="..\:/BankClerk/app/src/main/res/drawable/menu_click_color.xml" value="0.2315" />
-        <entry key="..\:/BankClerk/app/src/main/res/layout/activity_main.xml" value="0.20811965811965813" />
+        <entry key="..\:/BankClerk/app/src/main/res/drawable/menu_click_text_color.xml" value="0.257" />
+        <entry key="..\:/BankClerk/app/src/main/res/layout/activity_main.xml" value="0.14871794871794872" />
+        <entry key="..\:/BankClerk/app/src/main/res/layout/activity_main2.xml" value="0.14871794871794872" />
         <entry key="..\:/BankClerk/app/src/main/res/layout/fragment_counsel.xml" value="0.16538461538461538" />
         <entry key="..\:/BankClerk/app/src/main/res/layout/fragment_first.xml" value="0.16623931623931623" />
         <entry key="..\:/BankClerk/app/src/main/res/layout/fragment_home.xml" value="0.16623931623931623" />
         <entry key="..\:/BankClerk/app/src/main/res/layout/fragment_mypage.xml" value="0.16623931623931623" />
-        <entry key="..\:/BankClerk/app/src/main/res/layout/fragment_record.xml" value="0.16538461538461538" />
-        <entry key="..\:/BankClerk/app/src/main/res/menu/item_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/BankClerk/app/src/main/res/layout/fragment_record.xml" value="0.176" />
+        <entry key="..\:/BankClerk/app/src/main/res/menu/item_menu.xml" value="0.2116788321167883" />
       </map>
     </option>
   </component>

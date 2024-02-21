@@ -17,11 +17,6 @@
             android:name=".MainActivity"
             android:exported="false"
             tools:ignore="Instantiatable" />
-<!--        <activity-->
-<!--            android:name=".MainActivity2"-->
-<!--            android:exported="false"-->
-<!--            android:label="@string/title_activity_main2"-->
-<!--            android:theme="@style/Theme.BankClerk.NoActionBar" />-->
     </application>
 
 </manifest>
